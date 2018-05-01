@@ -1,6 +1,6 @@
 ---
 layout: default
-title: First post
-category: Azure
+title: Second post
+category: Design
 ---
 ## First post content
